@@ -9,6 +9,6 @@
     }
   },
   "android": {
-   "flavor": "qa"
- }
+    "flavor": "qa"
+  }
 }
